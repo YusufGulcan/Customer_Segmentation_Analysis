@@ -2,7 +2,7 @@
 
 ### Description
 
-A customer segmentation analysis based on recency, frequency and monetary aspects of the customers. The data composed of records of customer orders, order volumes, order values, customer IDs and the order dates.  The time interval of the records is approximately 2 years. 
+A customer segmentation analysis based on recency, frequency and monetary aspects of the customers. The data composed of records of customer orders, order volumes, order values, customer IDs and the order dates. The data covers 2 years of records.
 
 ### The reader can answer about these questions after viewing this project;
 
